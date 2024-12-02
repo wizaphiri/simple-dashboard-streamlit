@@ -38,7 +38,7 @@ donut_fig = px.pie(
     labels={"index": "Status", "value": "Count"},
     width=350,  
     height=350,  
-    color_discrete_sequence = ["teal", "grey"]
+    color_discrete_sequence = ["teal", "#FFB6C1"]
 )
 
 # Donut Chart - Error Summary
