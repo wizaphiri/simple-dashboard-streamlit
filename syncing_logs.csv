@@ -1,0 +1,143 @@
+district,facility_name,ip_address,std_err,status,date
+Dowa,Mtengowanthenga mission,0.0.0.0,[NULL],Success,02/12/2024
+Chikwawa,Makhwira Health center,0.0.0.1,[NULL],Success,02/12/2024
+Lilongwe,Mlale Mission Hospital,0.0.0.2,[NULL],Success,02/12/2024
+Blantyre,Macro Blantyre,0.0.0.3,File Not Found,Fail,02/12/2024
+Nkhotakota,Alinafe Rehabilitation Centre,0.0.0.4,Permission Denied,Fail,02/12/2024
+Zomba,Matawale Health Center,0.0.0.5,[NULL],Success,02/12/2024
+Zomba,Nasawa Health Center,0.0.0.6,[NULL],Success,02/12/2024
+Kasungu,Kasungu District Hospital,0.0.0.7,[NULL],Success,02/12/2024
+Kasungu,St Andrews Clinic Kasungu,0.0.0.8,No Route Host,Fail,02/12/2024
+Blantyre,Bangwe Health Centre,0.0.0.9,[NULL],Success,02/12/2024
+Blantyre,Chileka Sda Health Centre,0.0.0.10,No Route Host,Fail,02/12/2024
+Blantyre,"Chilomoni Health Centre	",0.0.0.11,File Not Found,Fail,02/12/2024
+Blantyre,Limbe Health Centre,0.0.0.12,File Not Found,Fail,02/12/2024
+Blantyre,Lirangwe Health Centre,0.0.0.13,[NULL],Success,02/12/2024
+Mzimba,Jenda Health Centre,0.0.0.14,[NULL],Success,02/12/2024
+Karonga,Karonga District Hospital,0.0.0.15,[NULL],Success,02/12/2024
+Mulanje,Namasalima Health Centre Mulanje,0.0.0.16,No Route Host,Fail,02/12/2024
+Mulanje,Kambenje Health Centre,0.0.0.17,[NULL],Success,02/12/2024
+Blantyre,Lundu Health Centre,0.0.0.18,[NULL],Success,02/12/2024
+Lilongwe,Mtenthera Health Centre,0.0.0.19,[NULL],Success,02/12/2024
+Chitipa,Chitipa District Hospital,0.0.0.20,[NULL],Success,02/12/2024
+Rumphi,Rumphi District Hospital,0.0.0.21,[NULL],Success,02/12/2024
+Mzimba North,Ekwendeni Mission Hospital,0.0.0.22,[NULL],Success,02/12/2024
+Mzimba North,Mzuzu Health Centre,0.0.0.23,[NULL],Success,02/12/2024
+Chikwawa,Ndakwela Health Centre,0.0.0.24,[NULL],Success,02/12/2024
+Karonga,Nyungwe Health Centre,0.0.0.25,[NULL],Success,02/12/2024
+Mzimba North,Mzuzu Central Hospital,0.0.0.26,[NULL],Success,02/12/2024
+Blantyre,Mlambe Mission Hospital,0.0.0.27,[NULL],Success,02/12/2024
+Mangochi,Chilipa Health Center (Mangochi),0.0.0.28,[NULL],Success,02/12/2024
+Salima,Senga Bay Baptist Dispensary,0.0.0.29,[NULL],Success,02/12/2024
+Zomba,Chipini Health Center,0.0.0.30,[NULL],Success,02/12/2024
+Zomba,Domasi Health Center,0.0.0.31,File Not Found,Fail,02/12/2024
+Zomba,Lambulira Health Center,0.0.0.32,[NULL],Success,02/12/2024
+Zomba,Likangala Health Center,0.0.0.33,No Route Host,Fail,02/12/2024
+Zomba,Thondwe Health Center,0.0.0.34,File Not Found,Fail,02/12/2024
+Mchinji,Kapiri Mission Hospital,0.0.0.35,[NULL],Success,02/12/2024
+Zomba,City Clinic Health Center,0.0.0.36,[NULL],Success,02/12/2024
+Balaka,phalula Health center,0.0.0.37,[NULL],Success,02/12/2024
+Mulanje,Chisitu Health Centre,0.0.0.38,[NULL],Success,02/12/2024
+Mzimba North,Moyale Barracks Health Centre,0.0.0.39,[NULL],Success,02/12/2024
+Blantyre,Blantyre City Assembly Clinic,0.0.0.40,[NULL],Success,02/12/2024
+Zomba,Naisi Health Center,0.0.0.41,File Not Found,Fail,02/12/2024
+Zomba,Sadzi Health Center,0.0.0.42,[NULL],Success,02/12/2024
+Chiradzulu,Bilal Clinic,0.0.0.43,[NULL],Success,02/12/2024
+Chiradzulu,Chitera Health Centre,0.0.0.44,[NULL],Success,02/12/2024
+Chiradzulu,Thumbwe Health Centre,0.0.0.51,[NULL],Success,02/12/2024
+Blantyre,Ndirande Health Centre,0.0.0.59,[NULL],Success,02/12/2024
+Blantyre,South Lunzu Health Centre,0.0.0.60,[NULL],Success,02/12/2024
+Blantyre,Kadidi Health Centre,0.0.0.61,[NULL],Success,02/12/2024
+Blantyre,Makhetha Health Centre,0.0.0.62,No Route Host,Fail,02/12/2024
+Nkhata Bay,Nkhata-Bay District Hospital,0.0.0.63,[NULL],Success,02/12/2024
+Mulanje,Namphungo Health Centre,0.0.0.64,[NULL],Success,02/12/2024
+Mulanje,Mbiza Health Centre,0.0.0.65,[NULL],Success,02/12/2024
+Ntchisi,Ntchisi District Hospital,0.0.0.66,[NULL],Success,02/12/2024
+Chikwawa,Chikwawa District Hospital,0.0.0.67,File Not Found,Fail,02/12/2024
+Chikwawa,Kalulu Health Centre Chikwawa,0.0.0.68,[NULL],Success,02/12/2024
+Lilongwe,Kamuzu Barracks Dispensary,0.0.0.69,[NULL],Success,02/12/2024
+Mulanje,Mulanje Mission Hospital,0.0.0.70,[NULL],Success,02/12/2024
+Mulanje,Muloza Health Centre,0.0.0.72,[NULL],Success,02/12/2024
+Mulanje,Mimosa Dispensary,0.0.0.73,No Route Host,Fail,02/12/2024
+Mulanje,Mpala Health Centre,0.0.0.74,[NULL],Success,02/12/2024
+Mulanje,Mulanje District Hospital,0.0.0.75,[NULL],Success,02/12/2024
+Mulanje,Chinyama Health Centre,0.0.0.76,[NULL],Success,02/12/2024
+Dowa,Dowa District Hospital,0.0.0.77,[NULL],Success,02/12/2024
+Dowa,Mponela Rural Hospital,0.0.0.78,[NULL],Success,02/12/2024
+Dowa,Madisi Mission Hospital,0.0.0.79,[NULL],Success,02/12/2024
+Lilongwe,Area 25 Urban Health Centre,0.0.0.80,[NULL],Success,02/12/2024
+Lilongwe,Dzenza Health Centre,0.0.0.81,[NULL],Success,02/12/2024
+Lilongwe,Kabudula Health Center,0.0.0.82,[NULL],Success,02/12/2024
+Nsanje,Mbenje Health Centre,0.0.0.83,[NULL],Success,02/12/2024
+Nsanje,Sorgin Health Centre,0.0.0.86,[NULL],Success,02/12/2024
+Nsanje,Tengani Health Centre,0.0.0.87,No Route Host,Fail,02/12/2024
+Salima,Khombedza Health Centre,0.0.0.88,[NULL],Success,02/12/2024
+Salima,Salima District Hospital,0.0.0.89,[NULL],Success,02/12/2024
+Salima,Life Line Salima Health Centre,0.0.0.90,[NULL],Success,02/12/2024
+Lilongwe,Area 18 Health Centre,0.0.0.91,[NULL],Success,02/12/2024
+Lilongwe,Chileka Health Centre (Lilongwe),0.0.0.92,[NULL],Success,02/12/2024
+Lilongwe,Chitedze Health Centre,0.0.0.93,[NULL],Success,02/12/2024
+Lilongwe,Kawale Health Center,0.0.0.94,[NULL],Success,02/12/2024
+Nsanje,Trinity Mission Hospital,0.0.0.95,[NULL],Success,02/12/2024
+Lilongwe,Lumbadzi Health Center,0.0.0.96,[NULL],Success,02/12/2024
+Lilongwe,Nathenje Health Center,0.0.0.97,[NULL],Success,02/12/2024
+Lilongwe,Kamuzu Central Hospital,0.0.0.98,[NULL],Success,02/12/2024
+Lilongwe,Martin Preuss Centre,0.0.0.99,[NULL],Success,02/12/2024
+Lilongwe,Lighthouse,0.0.0.100,[NULL],Success,02/12/2024
+Mchinji,Mkanda Health Centre,0.0.0.101,[NULL],Success,02/12/2024
+Mchinji,Nkhwazi Health Centre,0.0.0.102,[NULL],Success,02/12/2024
+Mchinji,Mchinji District Hospital ,0.0.0.103,[NULL],Success,02/12/2024
+Dedza,Dedza District Hospital,0.0.0.104,[NULL],Success,02/12/2024
+Lilongwe,MACRO Lilongwe,0.0.0.105,[NULL],Success,02/12/2024
+Lilongwe,Likuni Hospital,0.0.0.106,[NULL],Success,02/12/2024
+Lilongwe,malingunde Health Centre,0.0.0.107,[NULL],Success,02/12/2024
+Lilongwe,Nkhoma Health Center,0.0.0.108,[NULL],Success,02/12/2024
+Lilongwe,Nthondo Health Center,0.0.0.109,No Route Host,Fail,02/12/2024
+Lilongwe,Area 30 Clinic,0.0.0.110,[NULL],Success,02/12/2024
+Lilongwe,St Gabriels Mission Hospital,0.0.0.111,[NULL],Success,02/12/2024
+Lilongwe,Partners In Hope,0.0.0.112,[NULL],Success,02/12/2024
+Ntcheu,Lizulu Health Centre,0.0.0.113,[NULL],Success,02/12/2024
+Ntcheu,Ntcheu District Hospital,0.0.0.114,[NULL],Success,02/12/2024
+Ntcheu,Sister Theresa Mission Hospital,0.0.0.115,[NULL],Success,02/12/2024
+Lilongwe,Mbabvi Health Centre,0.0.0.116,[NULL],Success,02/12/2024
+Rumphi,DGM Livingstonia Mission Hospital North,0.0.0.117,[NULL],Success,02/12/2024
+Phalombe,Phalombe District Hospital ,0.0.0.118,[NULL],Success,02/12/2024
+Mangochi,Chiponde Health Center,0.0.0.119,[NULL],Success,02/12/2024
+Mangochi,Mangochi DHO,0.0.0.120,[NULL],Success,02/12/2024
+Mangochi,KOCHE Mission Hospital,0.0.0.121,[NULL],Success,02/12/2024
+Mangochi,Monkeybay Community Hospital,0.0.0.122,[NULL],Success,02/12/2024
+Mangochi,Mpondasi Health Center,0.0.0.123,No Route Host,Fail,02/12/2024
+Mangochi,Nkope Mission Hospital,0.0.0.124,[NULL],Success,02/12/2024
+Machinga,Machinga DHO,0.0.0.128,[NULL],Success,02/12/2024
+Machinga,Nayuchi Health Center,0.0.0.129,[NULL],Success,02/12/2024
+Machinga,Ntaja Health Center,0.0.0.132,[NULL],Success,02/12/2024
+Zomba,ZCH Tisungane Clinic LAN,0.0.0.133,[NULL],Success,02/12/2024
+Blantyre,Queen Elizabeth Central Hospital,0.0.0.134,[NULL],Success,02/12/2024
+Zomba,St Lukes Mission Hospital,0.0.0.135,[NULL],Success,02/12/2024
+Blantyre,Chirimba Health Centre,0.0.0.136,[NULL],Success,02/12/2024
+Blantyre,Makata Health Centre Lunzu,0.0.0.137,[NULL],Success,02/12/2024
+Blantyre,Mbayani Health Centre,0.0.0.138,[NULL],Success,02/12/2024
+Blantyre,Gateway Clinic,0.0.0.139,[NULL],Success,02/12/2024
+Mwanza,Mwanza District Hospital,0.0.0.140,[NULL],Success,02/12/2024
+Thyolo,Bvumbwe Research Health Centre,0.0.0.141,[NULL],Success,02/12/2024
+Thyolo,Khonjeni Health Centre,0.0.0.142,No Route Host,Fail,02/12/2024
+Thyolo,Malamulo Mission Hospital,0.0.0.143,[NULL],Success,02/12/2024
+Thyolo,Mangunda Health Centre,0.0.0.144,No Route Host,Fail,02/12/2024
+Thyolo,Mikolongwe,0.0.0.145,[NULL],Success,02/12/2024
+Thyolo,Thekerani Health Centre,0.0.0.146,[NULL],Success,02/12/2024
+Phalombe,Migowi Health Centre,0.0.0.147,No Route Host,Fail,02/12/2024
+Phalombe,Nambazo Health Centre,0.0.0.148,[NULL],Success,02/12/2024
+Thyolo,Thyolo District Hospital,0.0.0.149,[NULL],Success,02/12/2024
+Phalombe,Phalombe Mission Hospital Holy Family,0.0.0.150,[NULL],Success,02/12/2024
+Thyolo,Makungwa Health Centre,0.0.0.153,[NULL],Success,02/12/2024
+Balaka,Balaka DHO,0.0.0.154,[NULL],Success,02/12/2024
+Balaka,Balaka OPD,0.0.0.155,[NULL],Success,02/12/2024
+Balaka,Kalembo Health Center,0.0.0.156,[NULL],Success,02/12/2024
+Balaka,Mbera Health Centre,0.0.0.157,[NULL],Success,02/12/2024
+Thyolo,Chisoka Health Centre,0.0.0.158,[NULL],Success,02/12/2024
+Chikwawa,Ngabu Rural Hospital,0.0.0.159,No Route Host,Fail,02/12/2024
+Chikwawa,St Montfort Hospital,0.0.0.160,No Route Host,Fail,02/12/2024
+Chikwawa,Sucoma Clinic Illovo,0.0.0.161,[NULL],Success,02/12/2024
+Chikwawa,Ngabu Sda Health Centre,0.0.0.162,File Not Found,Fail,02/12/2024
+Nsanje,Kalemba Health Centre,0.0.0.163,[NULL],Success,02/12/2024
+Nsanje,Masenjere Health Centre,0.0.0.164,[NULL],Success,02/12/2024
