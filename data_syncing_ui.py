@@ -36,17 +36,18 @@ def load_lottieurl(url):
 
 
 # Conditional display based on success rate
-if success_rate > 70:
+if success_rate >= 75:
     # Load and display confetti animation
     lottie_confetti = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_touohxv0.json")
-    title = f"🎉 Syncing Milestone Reached 🎉"
+    title = f"ðŸŽ‰ Syncing Milestone Reached ðŸŽ‰"
     subtitle = f"{success_count} ({success_rate}%) POC facilities are syncing successfully"
     if lottie_confetti:
         st_lottie(lottie_confetti, height=100, key="confetti")
 else:
     # Display default monitoring title
-    st.title("OpenMRS Data Syncing Monitoring")
-
+    # st.title("OpenMRS Data Syncing Monitoring")
+    title = "OpenMRS Data Syncing Monitoring"
+    subtitle = f"{success_count} ({success_rate}%) POC facilities are syncing successfully"
 
 st.markdown(f"""
     <h1 style='text-align: center;'>{title}</h1>
