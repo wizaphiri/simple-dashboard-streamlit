@@ -9,6 +9,14 @@ from streamlit_lottie import st_lottie
 import warnings
 warnings.filterwarnings('ignore')
 
+# if __name__ == "__main__":
+#   st.set_page_config()
+#   main()
+
+# st.set_page_config()
+# st.set_page_config(
+# layout = "wide")
+
 db_config1 = {
     'host': 'localhost',
     'user': 'wiza',
